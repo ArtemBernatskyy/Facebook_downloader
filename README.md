@@ -1,6 +1,6 @@
 `Feel free to share and star, created with love and BSD license.`
 
-#### Перше встановлення  
+#### Перше встановлення і встановлення Python 2  
 
 1. встановлюєте https://www.python.org/ftp/python/2.7.11/python-2.7.11.msi  
 !!! коли з'явлюється меню в ході встановлення слідує скріншотам в папці /installing  
