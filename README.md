@@ -1,3 +1,5 @@
+`Feel free to share and star, created with BSD license.`
+
 #### Перше встановлення  
 
 1. встановлюєте https://www.python.org/ftp/python/2.7.11/python-2.7.11.msi  
