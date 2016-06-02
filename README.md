@@ -1,4 +1,4 @@
-`Feel free to share and star, created with BSD license.`
+`Feel free to share and star, created with love and BSD license.`
 
 #### Перше встановлення  
 
